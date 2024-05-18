@@ -91,11 +91,11 @@ button:hover {
     padding: 0 5px;
     color: #b4f9f8;
     border-color: #b4f9f8;
-    border-top: 0.19em solid;
-    border-bottom: 0.19em solid;
+    border-top: 0.20em solid;
+    border-bottom: 0.20em solid;
 }
 #workspaces {
-   border-left: 0.21em solid;
+   border-left: 0.20em solid;
    border-radius: 10px 0px 0px 10px;
 }
 
@@ -104,6 +104,6 @@ button:hover {
 }
 
 #clock{
-   border-right: 0.19em solid;
+   border-right: 0.20em solid;
    border-radius: 0px 10px 10px 0px;
 }
